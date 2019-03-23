@@ -8,7 +8,7 @@
     <application
         android:allowBackup="false"
         android:icon="@android:mipmap/sym_def_app_icon"
-        android:label="Touch2StoreInstaller"
+        android:label="Touch2AppInstaller"
         android:roundIcon="@android:mipmap/sym_def_app_icon"
         android:supportsRtl="false"
         android:theme="@android:style/Theme.Material.Light.DarkActionBar">
